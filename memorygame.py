@@ -1,10 +1,6 @@
 '''
 Simple basic memory game with selectable card sets.
-
-Author: Michael Smith
-Email:  michael@smithonline.id.au
 '''
-__author__ = 'Michael Smith'
 
 import random
 import Tkinter as tk
